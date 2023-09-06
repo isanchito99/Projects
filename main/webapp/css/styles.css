@@ -1,0 +1,158 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-form {
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#buttonInformes{
+       display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: purple;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+h2 {
+    margin-top: 0;
+    text-align: center;
+}
+img{
+    width: 30px;
+    height: 20px;
+
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#username,
+#password {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#button_login {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.header ul li {
+    margin-right: 200px;
+}
+
+.header ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header ul li a:hover {
+    text-decoration: underline;
+}
+
+.company-name {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+footer p {
+    margin-right:10px;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.formRRHH{
+     width: 1000px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 150px;
+}
+#buttonRRHH{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#buttonRRHH:hover {
+    background-color: #45a049;
+}
+
+#links{
+   display: inline-block;
+  padding: 10px 20px;
+  background-color: #428bca;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;  
+}
+#linksInformes{
+   display: inline-block;
+  padding: 10px 20px;
+  background-color: black;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;  
+}
+#links:hover{
+     background-color: #3276b1;
+}
+
