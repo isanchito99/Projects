@@ -1,0 +1,448 @@
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona19-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona153-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona152-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona151-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona147-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona146-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona145-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona144-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona143-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona142-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona175-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona173-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona3-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona1-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona4-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona5-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona6-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona7-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona8-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona9-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona10-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona11-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona12-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona13-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona14-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona36-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona16-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona17-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona124-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona108-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona94-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona82-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona18-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona2-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona20-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona2-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona2-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona2-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona41-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona74-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona76-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona77-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona80-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona1-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona82-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona18-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona19-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona81-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona17-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona16-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona15-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona14-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona4-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona86-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona7-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona84-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona8-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona85-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona83-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona79-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona78-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona62-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona9-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona50-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona32-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona42-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona12-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona11-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona10-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona6-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona5-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona3-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona2-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona1-C1 en el buzón
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona82-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona18-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona19-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona20-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona6-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona1-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona3-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona5-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona2-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona1-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona3-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona20-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona6-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona3-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona6-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona2-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona20-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona19-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona19-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona82-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona2-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona5-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona82-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona5-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona18-C1 en la Furgoneta1
+dic. 15, 2022 5:48:40 P. M. Principal.Registro registroLog
+INFO: Carta: Persona18-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona154-C1 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona94-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona94-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona94-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona40-C1 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona14-C2 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona155-C1 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona82-C2 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona157-C1 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona11-C2 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona39-C1 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona32-C2 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona10-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona10-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona10-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona108-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona108-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona108-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona124-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona124-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona124-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona38-C1 en el buzón
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona16-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona17-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona16-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona16-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona17-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona17-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona11-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona11-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona11-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona12-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona12-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona12-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona42-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona42-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona42-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona32-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona32-C1 en la Furgoneta1
+dic. 15, 2022 5:48:41 P. M. Principal.Registro registroLog
+INFO: Carta: Persona32-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona159-C1 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona8-C2 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona36-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona36-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona36-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona154-C2 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona50-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona50-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona50-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona40-C2 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona157-C2 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona156-C1 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona14-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona14-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona14-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona38-C2 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona37-C1 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona155-C2 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona9-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona9-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona9-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona39-C2 en el buzón
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona13-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona13-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona13-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona12-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona12-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona12-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona62-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona62-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona62-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona78-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona78-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona78-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona11-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona11-C1 en la Furgoneta1
+dic. 15, 2022 5:48:42 P. M. Principal.Registro registroLog
+INFO: Carta: Persona11-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona79-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona79-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona79-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona2-C2 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona10-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona10-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona10-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona36-C1 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona23-C1 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona37-C2 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona83-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona83-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona83-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona156-C2 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona35-C1 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona84-C2 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona34-C1 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona77-C1 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona9-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona9-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona9-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona85-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona85-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona85-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona16-C2 en el buzón
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona8-C1 cogida del buzón por el Empleado5
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona8-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona8-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona8-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona8-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona8-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona84-C1 cogida del buzón por el Empleado1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona84-C1 en la Furgoneta1
+dic. 15, 2022 5:48:43 P. M. Principal.Registro registroLog
+INFO: Carta: Persona84-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona7-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona7-C1 en la Furgoneta1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona7-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona7-C1 cogida del buzón por el Empleado2
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona7-C1 en la Furgoneta1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona7-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Se deja la carta: Persona158-C1 en el buzón
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona6-C1 cogida del buzón por el Empleado4
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona6-C1 en la Furgoneta1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona6-C1 enviada a la Furgoneta 1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona5-C1 cogida del buzón por el Empleado3
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Se ha dejado la carta: Persona5-C1 en la Furgoneta1
+dic. 15, 2022 5:48:44 P. M. Principal.Registro registroLog
+INFO: Carta: Persona5-C1 enviada a la Furgoneta 1
