@@ -1,0 +1,341 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.container-fluid {
+
+    background-color: blueviolet;
+}
+
+aside {
+    background-color: orange;
+}
+
+#asideMario {
+    background-color: burlywood;
+}
+
+.row {
+    padding-top: 20px;
+
+}
+
+#marciano {
+    width: 380px;
+    height: 380px;
+    margin-left: 200px
+}
+
+#textoRetrogaming {
+    font-size: 20px;
+}
+
+#col1 {
+    background-color: seagreen;
+    color: wheat;
+
+}
+
+#col2 {
+    background-color: coral;
+    color: darkslategrey;
+}
+
+#colBio {
+    background-color: #C0397D;
+    color: black;
+    padding-left: 35px;
+    border: solid 1px black;
+}
+
+#h1Bio {
+    color: #32295E;
+
+}
+
+#textoFooter {
+
+    font-size: 16px;
+}
+
+a:visited {
+    color: white;
+    ;
+}
+
+#Naby:visited {
+    color: blue;
+}
+
+#h1Brick{
+    color: blue;
+    margin-right: 20px
+}
+#h1Snake{
+    color: darkgreen;
+    margin-right: 100px
+}
+#h1Pong{
+    color: dimgray;
+    padding-left: 70px
+
+}
+#h1HallofFame{
+      color: brown;
+    padding-left: 200px;
+    text-shadow: 2px 2px #000000;
+}
+
+nav li {
+
+    display: inline-block;
+    text-transform: uppercase;
+    padding-left: 7px;
+    text-shadow: 2px 2px #000000;
+    margin-right: 55px;
+
+}
+
+#imgbrick {
+    width: 90px;
+    height: 120px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+}
+
+li:visited {
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+
+.foto_gamer img {
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+}
+
+#id_brick {
+    height: 220px;
+    width: 160px;
+
+}
+
+@-webkit-keyframes volteoTexto {
+    0% {
+        -webkit-transform: rotateX(80deg);
+        transform: rotateX(80deg);
+        opacity: 0;
+    }
+
+    100% {
+        -webkit-transform: rotateX(0);
+        transform: rotateX(0);
+        opacity: 1;
+    }
+}
+
+
+#textosDiv {
+    text-align: center;
+}
+
+#gifMario {
+    width: 300px;
+    height: 300px;
+}
+
+#gifKirby {
+    width: 300px;
+    height: 300px;
+    margin-top:  130px
+}
+
+#pongText {
+    background-color: gainsboro;
+    border: solid 2px #6B6565;
+    margin-top: 100px;
+
+}
+
+#general {
+    background-color: burlywood;
+    margin: solid 1px orange;
+}
+
+#brickText {
+    background-color: aquamarine;
+    border: solid 2px darkblue;
+
+}
+
+#snakeText {
+    background-color: chartreuse;
+    border: solid 2px darkgreen;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    
+
+}
+
+nav {
+
+    width: 98%;
+    color: white;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+}
+
+/* CSS AVANZADO PARA LAS ANIMACIONES DE LOS GIFS*/
+
+@keyframes volteoTexto {
+    0% {
+        -webkit-transform: rotateX(80deg);
+        transform: rotateX(80deg);
+        opacity: 0;
+    }
+
+    100% {
+        -webkit-transform: rotateX(0);
+        transform: rotateX(0);
+        opacity: 1;
+    }
+}
+#tablaBrick{
+    background-color: aqua;
+}
+#tablaSnake{
+    background-color: greenyellow;
+}
+
+#tablaPong{
+    background-color: grey;
+}
+
+.bocadilloMario {
+    -webkit-animation: volteoTexto 2s 2s both;
+    animation: volteoTexto 2s 2s both;
+    border-radius: 30px;
+    background-color: #8E1717;
+    color: #fff;
+    padding: 30px;
+    width: 300px;
+    font-family: 'Trebuchet ms';
+    font-size: 2em
+}
+
+.bocadilloMario:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 20px solid #808080;
+    border-left: 18px solid transparent;
+    margin: 68px 0 0 250px;
+}
+
+@-webkit-keyframes mover-derecha {
+  0% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(100px);
+            transform: translateX(100px);
+  }
+}
+@keyframes mover-derecha {
+  0% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(100px);
+            transform: translateX(100px);
+  }
+}
+
+
+.bocadilloMegaMan {
+    -webkit-animation: mover-derecha 2s cubic-bezier(0.600, -0.280, 0.735, 0.045) infinite both;
+	        animation: mover-derecha 2s cubic-bezier(0.600, -0.280, 0.735, 0.045) infinite both;
+    border-radius: 30px;
+    background-color: #161378;
+    color: #fff;
+    padding: 30px;
+    width: 300px;
+    font-family: 'Trebuchet ms';
+    font-size: 2em
+}
+
+.bocadilloMegaMan:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 20px solid #808080;
+    border-left: 18px solid transparent;
+    margin: 68px 0 0 250px;
+}
+
+@-webkit-keyframes aparecerLento {
+  0% {
+    -webkit-transform: scale(2);
+            transform: scale(2);
+    -webkit-filter: blur(2px);
+            filter: blur(2px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
+@keyframes aparecerLento {
+  0% {
+    -webkit-transform: scale(2);
+            transform: scale(2);
+    -webkit-filter: blur(2px);
+            filter: blur(2px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
+
+.bocadilloKirby {
+-webkit-animation: aparecerLento 4s ease-in 3s infinite both;
+	        animation: aparecerLento 4s ease-in 3s infinite both;
+    border-radius: 30px;
+    background-color: #671378;
+    color: #fff;
+    padding: 30px;
+    width: 300px;
+    font-family: 'Trebuchet ms';
+    font-size: 2em
+}
+
+.bocadilloKirby:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 20px solid #808080;
+    border-left: 18px solid transparent;
+    margin: 68px 0 0 250px;
+}
+

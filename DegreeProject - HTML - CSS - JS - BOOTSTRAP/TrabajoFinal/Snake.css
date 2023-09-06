@@ -1,0 +1,11 @@
+ * {
+            padding: 0;
+            margin: 0;
+        }
+
+        canvas {
+            background-image: url("img/fondoSnake.png");
+          
+            display: block;
+            margin: 0 auto;
+        }
