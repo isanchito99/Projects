@@ -1,0 +1,557 @@
+/*General*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+
+.main-container h1 {
+  font-family: Cambria;
+}
+
+.display_general {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5%;
+}
+
+.main-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#logo2 {
+  transform: scaleX(-1);
+}
+
+#FER_LOGO {
+  width: 100%;
+  height: 100%;
+  padding-top: 5%;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  background-color: aliceblue;
+}
+
+
+
+/*HEADER MENU*/
+#headermenu {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+#headermenu p {
+  font-family: Cambria;
+}
+
+
+
+#menu {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#menu li a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+#menu li a:hover {
+  color: #0066cc;
+}
+
+
+#categorysDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 20px;
+  float: left;
+}
+
+#categorys {
+  list-style: none;
+  margin-bottom: 20px;
+
+}
+
+#categorys li {
+  font-family: Cambria;
+  padding-top: 50px;
+}
+#categorys li button{
+  height: 30%;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 4px;
+}
+#categorys li a {
+  text-decoration: none;
+
+  color: #000;
+}
+#deleteButton{
+background-color: #ff0000;
+color: #ffffff;
+border: none;
+padding: 10px 20px;
+border-radius: 5px;
+cursor: pointer;
+}
+#categorys li a:hover {
+  color: #0066cc;
+}
+.checkout h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+
+
+.checkout th, td {
+  text-align: left;
+  padding: 10px;
+}
+
+.checkout th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.checkout tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+#totalPrice{
+  
+    font-size: 20px;
+    color: #333;
+    margin-top: 20px;
+
+  
+}
+
+#CategoriesImage {
+  display: flex;
+}
+
+/*PRINCIPAL IMAGE*/
+#principalImage {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  margin: 0 auto;
+  position: relative;
+  float:right;
+  
+}
+
+#principalImage img {
+  align-items: center;
+  max-width: 80%;
+  height: 60%;
+  
+
+}
+
+#principalImage h1 {
+  position: absolute;
+  z-index: 1;
+  padding-bottom: 60px;
+  text-align: center;
+  font-family: 'Trebuchet MS';
+  margin-bottom: 60px;
+  font-size: 35px;
+  color: aqua;
+  text-shadow: 0 0 4px black;
+}
+
+
+/*PRODUCT CONTAINER*/
+#product-container {
+  padding: 20px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#product-container h3 {
+  margin-bottom: 20px;
+  margin-right: 30px;
+}
+
+#product-container img {
+  width: 80%;
+  height: 100px;
+}
+#products-buy-button {
+  background-color:darkorchid;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+#products-buy-button:hover {
+  background-color: darkred;
+}
+
+/*PRODUCT IN NODESERVER*/
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 20px;
+  float: left;
+}
+
+.product img {
+  width: 15%;
+  height: auto;
+}
+
+.product h3 {
+  font-family: Cambria;
+  padding-top: 6px;
+}
+
+.product p {
+  font-family: Cambria;
+  padding-top: 6px;
+}
+#botonProducts {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: #4CAF50;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#botonProducts:hover {
+  background-color: #45a049;
+}
+
+#botonProducts:active {
+  background-color: #3e8e41;
+}
+/*NEWSPAPER SIZE*/
+#newsPage {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 75%;
+}
+
+#newsPage h3 {
+  margin-bottom: 20px;
+}
+
+#newsPage form {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+#newsPage label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+}
+
+#newsPage input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#newsPage button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#newsPage button:hover {
+  background-color: #3e8e41;
+}
+
+
+/*FOOTER*/
+#footerMenu {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+
+#categorysDiv {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 20px;
+}
+
+#principalImage {
+  padding: 20px;
+  flex-basis: 50%;
+  margin: 0 auto;
+}
+
+#products {
+  padding: 20
+}
+
+#newsPage {
+  padding: 20px;
+  flex-basis: 25%;
+}
+
+/*ABOUT*/
+
+#about{
+  display: flex;
+ font-family: 'Times New Roman', Times, serif;
+}
+/*CART CSS */
+
+#cartpage h1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 36px;
+  color: #333;
+}
+
+#cartpage table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  background-color: #FFF;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 800px;
+}
+
+#cartpage th,
+td {
+  padding: 15px;
+  text-align: center;
+}
+
+#cartpage th {
+  background-color: #333;
+  color: #FFF;
+}
+
+#buyButton {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #B10DC9;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  cursor: pointer;
+
+}
+
+#buyButton:hover {
+  background-color: darkred;
+}
+
+#incrementButton {
+  background-color: #4CAF50;
+  border: none;
+  color: #FFF;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#decrementButton {
+  background-color: red;
+  border: none;
+  color: #FFF;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#buyAllProducts {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: darkslategray;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+#buyAllProducts:hover {
+  background-color: black;
+
+}
+
+#cart {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#cartQuantity {
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 2px 5px rgba(200, 0, 0, 0);
+  margin: 0 auto;
+  position: relative;
+}
+
+
+/*FINISH CART*/
+
+#finishCart {
+  border: 2px solid black;
+  padding: 10px;
+}
+ #finishCart table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#finishCart th  {
+  text-align: left;
+  padding: 8px;
+  background-color: #f2f2f2;
+
+}
+
+/* When the screen have this size we change this things:*/
+@media only screen and (min-width: 414px) and (max-width: 896px) {
+
+  /*For less mobile screens */
+  .main-container {
+    padding: 20px;
+  }
+
+  .main-container h1 {
+    font-size: 24px;
+  }
+
+  #categorysDiv {
+    flex-direction: row;
+  }
+
+  #categorys {
+    margin-bottom: 0;
+  }
+
+  #categorys li {
+    font-size: 16px;
+  }
+
+  #categorys li a {
+    padding: 10px;
+  }
+
+  #principalImage h1 {
+    font-size: 28px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+
+  #principalImage h2 {
+    font-size: 20px;
+    margin-top: 120px;
+  }
+
+  #product-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px 200px;
+  }
+ 
+  #productList button {
+    padding: 20px;
+  }
+  #product-container img {
+    max-width: 100%;
+  }
+  #about{
+    padding: 5%;
+    flex-direction: column;
+   
+  }
+
+  #newsPage form {
+    padding: 10px;
+  }
+
+  #newsPage input {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  #newsPage button {
+    padding: 8px 16px;
+    font-size: 14px;
+
+  }
+}
+
