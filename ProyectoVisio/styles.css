@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.fondoPagina {
+    background-image: url("img/fullteams.jpg");
+    background-position: center;
+    min-height: 100vh;
+    background-attachment: fixed;
+
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    height: 400px;
+    margin: 0;
+}
+
